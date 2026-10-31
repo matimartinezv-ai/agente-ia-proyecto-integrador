@@ -5,6 +5,7 @@ Asistente de Calificación de Leads de **Control Data Chile**, construido en n8n
 | Checkpoint | Módulo | Contenido | Archivo |
 |---|---|---|---|
 | 1 | M1 Agente base | Trigger, AI Agent con System Prompt y una herramienta, log de observabilidad | [checkpoint1/checkpoint1_matias_martinez.json](checkpoint1/checkpoint1_matias_martinez.json) |
+| 4 | M4 Integraciones | Canal de correo de soporte con HubSpot, Gmail (borrador) y Slack, con controles anti auto-reply, anti duplicados y limpieza de payload | [checkpoint4/](checkpoint4/README.md) |
 
 ## Checkpoint 1: agente base y motor de razonamiento
 
